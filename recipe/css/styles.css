@@ -1,0 +1,128 @@
+body {
+
+	font-family: 'Karla', sans-serif;
+
+}
+
+img {
+
+	width:100%;
+	height:auto;
+}
+
+.title {
+
+	text-align:center;
+	font-size:25px;
+	padding-top:30px;
+	margin-bottom:5px;
+}
+
+.subtitle {
+	text-align:center;
+	font-size:18px;
+	font-style:italic;
+	font-weight:lighter;
+	margin-top:0px;
+}
+
+.ingredients {
+	text-transform:uppercase;
+	font-size:20px;
+	letter-spacing:3px;
+	padding-left:15px;
+}
+
+.ingredients2 {
+	padding-left:10px;
+	padding-right:10px;
+	padding-left:15px;
+	font-size:18px;
+
+}
+
+.preparation {
+	text-transform:uppercase;
+	font-size:20px;
+	letter-spacing:3px;
+	padding-top:20px;
+	padding-left:15px;
+
+}
+
+.step {
+	font-style:italic;
+	font-size:15px;
+	padding-left:15px;
+
+}
+
+.preparation2 {
+
+	padding-left:15px;
+	padding-right:20px;
+	line-height:25px;
+	font-size:18px;
+}
+
+.tricks {
+
+	padding-left:15px;
+	padding-right:20px;
+	padding-bottom:30px;
+	line-height:20px;
+	font-style:italic;
+	font-size:15px;
+	font-weight:lighter;
+}
+
+ a {
+	text-decoration:none;
+	color:black;
+	font-size:18px;
+	padding-left:15px;
+	padding-right:15px;
+	padding-top:15px;
+	padding-bottom:15px;
+	border-radius:20px;
+	border: 2px solid black;
+	text-align:center;
+	display:inline-block;
+}
+
+div {
+	height:100px;
+	padding-left:20px;
+	padding-right:10px;
+	display:inline-block;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
