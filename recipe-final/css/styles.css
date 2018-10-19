@@ -1,0 +1,146 @@
+body {
+
+	font-family: 'Karla', sans-serif;
+
+}
+
+img {
+
+	width:100%;
+	height:auto;
+}
+
+
+.title {
+
+	text-align:center;
+	font-size:42px;
+	line-height:60px;
+	padding-top:30px;
+	padding-bottom:50px;
+	margin-bottom:0px;
+	color:#fc992f;
+}
+
+
+.ingredients {
+	text-transform:uppercase;
+	font-size:20px;
+	letter-spacing:3px;
+	padding-left:15px;
+	color:#0fc686;
+	margin-top:25px;
+}
+
+ul {
+	font-size:18px;
+	line-height:26px;
+	padding-right:10px;
+}
+
+.ingredients2 {
+	padding-left:10px;
+	padding-right:10px;
+	padding-left:15px;
+
+}
+
+.preparation {
+	text-transform:uppercase;
+	font-size:20px;
+	letter-spacing:3px;
+	padding-top:10px;
+	padding-left:15px;
+	color:#0fc686;
+
+}
+
+.step {
+	font-style:italic;
+	font-size:15px;
+	padding-left:15px;
+	color:#fc992f;
+	padding-bottom:0px;
+
+}
+
+.preparation2 {
+
+	padding-left:15px;
+	padding-right:20px;
+	line-height:27px;
+	font-size:19px;
+	margin-top:0px;
+}
+
+.tricks {
+
+	padding-left:15px;
+	padding-right:20px;
+	padding-bottom:0px;
+	line-height:20px;
+	font-style:italic;
+	font-size:15px;
+	font-weight:lighter;
+}
+
+ a {
+	text-decoration:none;
+	color:#0fc686;
+	font-size:18px;
+	padding-left:15px;
+	padding-right:15px;
+	padding-top:15px;
+	padding-bottom:15px;
+	border-radius:20px;
+	border: 2px solid #0fc686;
+	text-align:center;
+	display:inline-block;
+}
+
+div {
+	height:100px;
+	padding-left:20px;
+	padding-right:10px;
+	display:inline-block;
+
+}
+
+.source {
+	padding-left:15px;
+	padding-right:25px;
+	padding-bottom:30px;
+	line-height:20px;
+	font-style:italic;
+	font-size:15px;
+	font-weight:lighter;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
