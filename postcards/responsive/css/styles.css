@@ -1,0 +1,143 @@
+html {
+
+	height:100%;
+}
+
+
+a {
+        display: block; 
+        position: fixed; 
+        top: 0; 
+        bottom: 0;  
+        left: 0;  
+        right: 0;  
+        z-index: 100; 
+}
+
+body {
+
+	font-family: 'Raleway', sans-serif;
+	background-image:url("../images/Chandler1.png");
+	background-size:cover;
+	background-position:center top;
+	background-repeat:no-repeat;
+	height:100%;
+}
+
+
+
+.quote {
+	font-size:50px;
+	font-weight:bolder;
+	color:white;
+	position:absolute;
+	left:80px;
+	bottom:100px;
+	margin-right:400px;
+}
+
+.person {
+
+	font-size:30px;
+	font-style:italic;
+	color:white;
+	position:absolute;
+	left:80px;
+	bottom:70px;
+}
+
+
+
+@media (max-width: 970px) {
+
+
+	.quote {
+	font-size:40px;
+	position:absolute;
+	left:80px;
+	bottom:100px;
+	margin-right:100px;
+	
+
+}
+
+	.person {
+	font-size:25px;
+	position:absolute;
+	left:80px;
+	bottom:60px
+
+	}
+
+
+@media (max-width: 805px) {
+
+	.quote {
+	font-size:35px;
+	position:absolute;
+	left:80px;
+	bottom:100px;
+	margin-right:100px;
+
+}
+
+body {
+	background-position:65% top;
+
+}
+	
+@media (max-width: 550px) {
+
+	.quote {
+	font-size:30px;
+	position:absolute;
+	left:50px;
+	bottom:100px;
+	margin-right:100px;
+}
+
+	.person {
+	font-size:20px;
+	position:absolute;
+	left:50px;
+	bottom:60px
+
+	}
+
+}
+
+@media (max-width: 370px) {
+	.quote {
+	font-size:25px;
+	position:absolute;
+	left:50px;
+	bottom:100px;
+	margin-right:40px;;
+}
+
+	.person {
+	font-size:15px;
+	position:absolute;
+	left:50px;
+	bottom:60px
+
+	}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
